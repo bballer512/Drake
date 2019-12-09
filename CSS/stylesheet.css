@@ -1,0 +1,41 @@
+body{
+        padding: 10m;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 200px;
+    color:goldenrod;
+    text-align:center;
+    margin: 20px;
+}
+
+p {
+    font-size: 30px;
+    color: goldenrod;
+    text-align: left;
+}
+
+h2 {
+    font-size: 80px;
+    color: goldenrod;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+navbar{
+    text-align: center;
+    margin: 20px;
+}
+
+.drakeIMG{
+    position: relative;
+    left: 410px;
+    height: 200px;
+    width: 400px;
+}
+a{}
+.draketxt{
+    object-position:top;
+}
